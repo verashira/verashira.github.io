@@ -1,13 +1,17 @@
 <ul>
   {% for paper in site.data.papers.papers %}
 
-    {% if include.group == "" or paper.group == include.group %}
+    {% if paper.group == include.group %}
     <li>
       {% if paper.docurl %}<a href="{{paper.docurl}}">{% endif %}
       <b>{{ paper.title }}</b>{% if paper.docurl %}</a>{% endif %}. <br>
 
       {{ paper.author }}. <br>
       <i>{{ paper.conf }} (<strong>{{ paper.confabbr }}</strong>)</i>, {{ paper.year }}. <br>
+
+      {% if paper.highlight %} 
+        <strong class="paper_highlight">{{ paper.highlight }}</strong> <br>
+      {% endif %}
 
       {% if paper.codeurl %}
         <a href="{{paper.codeurl}}">[code]</a> <br>

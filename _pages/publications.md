@@ -13,11 +13,11 @@ author_profile: true
 
 ## Conferences
 
-{% include publications.html group=conference %}
+{% include publications.html group="conference" %}
 
-## Conference System Tracks
+## Conference, Systems
 
-{% include publications.html group=demo %}
+{% include publications.html group="demo" %}
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}

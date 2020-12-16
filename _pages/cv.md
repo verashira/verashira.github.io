@@ -9,51 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [2019&mdash;present]&nbsp; **Ph.D. Computer Science**
+  * Australian National University
+  * Supervisors: Ben Swift, Hanna Suominen, Hongdong Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [2015&mdash;2017]&nbsp; **MSc Computing (Honour)**
+  * Australian National University
+  * Supervisors: Lizhen Qu
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [2010&mdash;2014]&nbsp; **B.E. Software Engineering**
+  * Tianjin Polytechnic University
+
+## Employment
+
+* [2019&mdash;present]&nbsp; **Research Assistant (Contract/Casual)**
+  * <span style="color: #0d69c3">Australian National University</span>, College of Engineering and Computer Science
+  * <span style="color: #0d69c3">Australian National University</span>, Research School of Physics, Department of Applied Mathematics
+
+* [2017&mdash;2019]&nbsp; **Data Scientist**
+  * <span style="color: #0d69c3">Hivery</span>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [2016&mdash;2017]&nbsp; **Research Assistant (Contract/Casual)**
+  * <span style="color: #0d69c3">Commonwealth Scientific and Industrial Research Organisation (CSIRO Data61)</span>
+  * Supervisors: Lizhen Qu
+
+## Award
+
+* ANU HDR Fee Remission Merit Scholarship
+* ANU PhD Scholarship
+* CSIRO Data61 Top-up Scholarship
+
+## Professional Services
+
+* [2020&mdash;2021] **Organizer** [CLEF eHealth Lab](https://clefehealth.imag.fr/)
+* [2019&mdash;present] **Programme Committee** for ACL, NAACL, CVPR

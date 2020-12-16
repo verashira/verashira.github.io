@@ -2,7 +2,7 @@ papers:
   - layout: paper
     author: "Q. Xu*, C. Xu*, L. Qu"
     title: "Privacy Monitoring Service for Conversations"
-    year: "2020"
+    year: "2021"
     paper-type: inproceedings
     conf: "The 14th International Conference on Web Search and Data Mining"
     confabbr: "WSDM Demo"
@@ -29,6 +29,7 @@ papers:
     venue: conference
     docurl: "http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Transferring_Cross-Domain_Knowledge_for_Video_Sign_Language_Recognition_CVPR_2020_paper.pdf"
     group: conference
+    highlight: "Best Paper Mention"
   - layout: paper
     author: "Q. Xu, L. Qu, C. Xu, R. Cui"
     title: "Privacy-Aware Text Rewriting"
@@ -39,6 +40,7 @@ papers:
     venue: conference
     docurl: "https://www.aclweb.org/anthology/W19-8633.pdf"
     group: conference
+    highlight: "Oral Presentation"
   - layout: paper
     author: "Q. Xu*, C. Xu*, L. Qu"
     title: "Alter: Auxiliary text rewriting tool for natural language generation"
@@ -70,4 +72,5 @@ papers:
     venue: conference
     docurl: "https://dl.acm.org/doi/abs/10.1145/3132847.3133081"
     group: conference
+    codeurl: "https://github.com/xuqiongkai/GraphBasedRNN/"
 
