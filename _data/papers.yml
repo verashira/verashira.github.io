@@ -1,0 +1,73 @@
+papers:
+  - layout: paper
+    author: "Q. Xu*, C. Xu*, L. Qu"
+    title: "Privacy Monitoring Service for Conversations"
+    year: "2020"
+    paper-type: inproceedings
+    conf: "The 14th International Conference on Web Search and Data Mining"
+    confabbr: "WSDM Demo"
+    venue: conference
+    group: demo
+  - layout: paper
+    author: "D. Li*, C. Xu*, X. Yu, K. Zhang, B. Swift, H. Suominen, H. Li"
+    title: "TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation"
+    year: "2020"
+    paper-type: inproceedings
+    conf: "Advances in Neural Information Processing Systems"
+    confabbr: "NeurIPS"
+    venue: conference
+    docurl: "https://proceedings.neurips.cc//paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf"
+    codeurl: "https://github.com/verashira/TSPNet"
+    group: conference
+  - layout: paper
+    author: "D. Li, X. Yu, C. Xu, L. Petersson, H. Li"
+    title: "Transferring cross-domain knowledge for video sign language recognition"
+    year: "2020"
+    paper-type: inproceedings
+    conf: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+    confabbr: "CVPR"
+    venue: conference
+    docurl: "http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Transferring_Cross-Domain_Knowledge_for_Video_Sign_Language_Recognition_CVPR_2020_paper.pdf"
+    group: conference
+  - layout: paper
+    author: "Q. Xu, L. Qu, C. Xu, R. Cui"
+    title: "Privacy-Aware Text Rewriting"
+    year: "2019"
+    paper-type: inproceedings
+    conf: "Proceedings of the 12th International Conference on Natural Language Generation"
+    confabbr: "INLG"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/W19-8633.pdf"
+    group: conference
+  - layout: paper
+    author: "Q. Xu*, C. Xu*, L. Qu"
+    title: "Alter: Auxiliary text rewriting tool for natural language generation"
+    year: "2019"
+    paper-type: inproceedings
+    conf: "2019 Conference on Empirical Methods in Natural Language Processing, Demonstration Track"
+    confabbr: "EMNLP Demo"
+    venue: conference
+    docurl: "https://arxiv.org/pdf/1909.06564"
+    group: demo
+    codeurl: "https://github.com/xuqiongkai/ALTER"
+  - layout: paper
+    author: "C. Xu, I. Mewburn, WJ. Grant, H. Suominen"
+    title: "PostAc: A Visual Interactive Search, Exploration, and Analysis Platform for PhD Intensive Job Postings"
+    year: "2019"
+    paper-type: inproceedings
+    conf: "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations"
+    confabbr: "ACL Demo"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/P19-3008.pdf"
+    group: demo
+  - layout: paper
+    author: "Q. Xu, Q. Wang, C. Xu, L. Qu"
+    title: "Attentive graph-based recursive neural network for collective vertex classification"
+    year: "2017"
+    paper-type: inproceedings
+    conf: "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management"
+    confabbr: "CIKM"
+    venue: conference
+    docurl: "https://dl.acm.org/doi/abs/10.1145/3132847.3133081"
+    group: conference
+
