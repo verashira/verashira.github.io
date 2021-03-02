@@ -16,6 +16,7 @@ Before coming back to research study, I worked in industry as a data scientist f
 
 ## News
 
+* \[2021.02\] paper accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
 * \[2020.11\] Demonstration paper accepted to [WSDM 2021](https://neurips.cc/Conferences/2020/).
 * \[2020.10\] Paper accepted to [NeurIPS 2020](https://neurips.cc/Conferences/2020/).
 * \[2020.2\] Paper accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
